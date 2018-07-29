@@ -1,4 +1,4 @@
 # hello-world
-foo bar
 
 Refreshing glass of github 
+With a hearty side of foo and bar 
